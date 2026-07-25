@@ -1,0 +1,7 @@
+target/
+.git/
+.github/
+.mvn/wrapper/maven-wrapper.jar
+*.log
+hs_err_pid*
+replay_pid*
